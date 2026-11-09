@@ -35,7 +35,7 @@ Pour déverrouiller et utiliser le logiciel, suivez ces 3 étapes simples :
 
 ## 📥 Installation & Lancement
 
-1. Téléchargez la dernière version de **`RocketLeagueMacros.exe`**.
+1. Téléchargez la dernière version de **`KlapMacro.exe`**.
 2. Lancez l'application (l'élévation Administrateur est demandée automatiquement pour communiquer avec le jeu).
 3. Entrez votre clé obtenue via `/code` sur Discord.
 4. Configurez vos touches selon vos préférences dans l'onglet **Touches**.
